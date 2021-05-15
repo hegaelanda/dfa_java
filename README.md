@@ -2,7 +2,7 @@
 
 Case Study : Create a DFA that will accept a sentence with the expression: a, a0, a01 aa, aa0, aa01
 
-Deterministic Finite Automata Formal Expression : 
+#### Deterministic Finite Automata Formal Expression : 
 
 Q = {q<sub>0</sub>, q<sub>1</sub>, q<sub>2</sub>}<br>
 Σ = {a, 0, 1}<br>
